@@ -60,7 +60,7 @@ const HowItWorks = () => {
                 </video>
               </div>
           </div>
-          <p className="text-gray font-semibold text-center mt-3">Honkai: Star Rail</p>
+          <p className="text-gray font-semibold text-center mt-3">Pokemon</p>
           </div>
 
           <div className="hiw-text-container">
@@ -85,7 +85,7 @@ const HowItWorks = () => {
               <div className="flex-1 flex justify-center flex-col g_fadeIn">
                 <p className="hiw-text">New</p>
                 <p className="hiw-bigtext">Pro-class GPU</p>
-                <p className="hiw-text">with 6 cores</p>
+                <p className="hiw-text">with 8 cores</p>
               </div>
               </div>
             </div>

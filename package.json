@@ -43,5 +43,13 @@
     "Clone"
   ],
   "author": "Mustafa Mallebhari",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heymustafa02/apple-landing-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heymustafa02/apple-landing-page/issues"
+  },
+  "homepage": "https://github.com/heymustafa02/apple-landing-page#readme"
 }

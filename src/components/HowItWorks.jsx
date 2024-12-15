@@ -55,12 +55,20 @@ const HowItWorks = () => {
               />
             </div>
             <div className="hiw-video">
-                <video className="pointer-events-none" playsInline preload="none" muted autoPlay ref={videoRef}>
-                  <source src={frameVideo} type="video/mp4" />
-                </video>
-              </div>
+  <video
+    className="pointer-events-none"
+    playsInline
+    preload="none"
+    muted
+    autoPlay
+    ref={videoRef}
+  >
+    <source src={frameVideo} type="video/mp4" />
+  </video>
+</div>
+
           </div>
-          <p className="text-gray font-semibold text-center mt-3">Pokemon</p>
+          <p className="text-gray font-semibold text-center mt-3">Sharp Full HD Screen</p>
           </div>
 
           <div className="hiw-text-container">
